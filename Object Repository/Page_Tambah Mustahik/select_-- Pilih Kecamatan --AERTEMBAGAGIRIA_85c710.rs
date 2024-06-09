@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Kecamatan --AERTEMBAGAGIRIA_85c710</name>
+   <tag></tag>
+   <elementGuidId>5efec99a-1157-40f8-9837-b2a149155d93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mustahik-kecamatan_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='mustahik-kecamatan_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1bef8749-769b-4684-8c70-4aa31f288e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mustahik-kecamatan_id</value>
+      <webElementGuid>123ded12-20e5-4242-b76e-1cd5dbbc25a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1f210b25-bced-4d3a-a542-eebb3fc107e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Mustahik[kecamatan_id]</value>
+      <webElementGuid>a9fb9680-75bd-40a0-b1ac-346af5fc3493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>
+                                                    $.get( &quot;/backend/web/index.php?r=mustahik%2Flist-desa&quot;, { param: $(this).val() } )
+                                                        .done(function( data ) {
+                                                            $( &quot;#mustahik-desa_id&quot; ).html( data );
+                                                        }
+                                                    );
+                                                    </value>
+      <webElementGuid>59d7e142-6c5f-4f6a-954e-df55b157a4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kecamatan --AERTEMBAGAGIRIANLEMBEH SELATANLEMBEH UTARAMADIDIRMAESAMATUARIRANOWULU</value>
+      <webElementGuid>185dac4a-4362-410d-a410-5219e025f3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mustahik-kecamatan_id&quot;)</value>
+      <webElementGuid>1369553f-08f3-44bd-9c1e-bab5ebc63a05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='mustahik-kecamatan_id']</value>
+      <webElementGuid>af890946-85a4-4c5e-a540-dc9a103eccac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create-mustahik']/div/div[2]/div/div[2]/div/div[3]/div/select</value>
+      <webElementGuid>afcfec01-3c0b-4d08-9bdc-4c5346bc67b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/following::select[1]</value>
+      <webElementGuid>5c1d5c47-ad01-4159-bbd2-e7015be9a1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota / Kabupaten'])[1]/following::select[2]</value>
+      <webElementGuid>707e6e75-694b-4f94-9cf2-58b6599f5c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelurahan / Desa'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb531232-c0ac-4985-ae41-6102ace56ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Rumah'])[1]/preceding::select[2]</value>
+      <webElementGuid>7f272e02-2f46-408e-b5bf-ee4450f55ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>7066c18d-8f9e-4569-bdd4-7e68b1f263f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'mustahik-kecamatan_id' and @name = 'Mustahik[kecamatan_id]' and (text() = '-- Pilih Kecamatan --AERTEMBAGAGIRIANLEMBEH SELATANLEMBEH UTARAMADIDIRMAESAMATUARIRANOWULU' or . = '-- Pilih Kecamatan --AERTEMBAGAGIRIANLEMBEH SELATANLEMBEH UTARAMADIDIRMAESAMATUARIRANOWULU')]</value>
+      <webElementGuid>c6cda04c-cc8c-4565-985e-2abcf8992826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_083845804927</name>
+   <tag></tag>
+   <elementGuidId>7b5496c5-f684-4c98-9a8b-f7bdc1d9255e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='data']/table/tbody/tr/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ef009492-6f23-4a18-af34-f3f4a6e9a4ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>083845804927</value>
+      <webElementGuid>e0476b80-ccf4-4aac-a887-2a04b1cf9ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data&quot;)/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[5]</value>
+      <webElementGuid>b5697429-5fd0-4d22-808b-00d0e61025bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='data']/table/tbody/tr/td[5]</value>
+      <webElementGuid>7b834fb3-a3d4-4ccc-8db8-c13c8a7582c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abil Sayuri'])[1]/following::td[1]</value>
+      <webElementGuid>d3cda540-f7dd-4dbe-9c38-72c1050deffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERDAFTAR'])[1]/following::td[3]</value>
+      <webElementGuid>910dc4c5-e54b-47e6-992c-ced79b1524c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remaja'])[1]/preceding::td[1]</value>
+      <webElementGuid>fbaf40df-288c-4f28-99d2-4af8d6927e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Induk Distribusi Jawa Timur'])[3]/preceding::td[2]</value>
+      <webElementGuid>989f97c4-1e2a-437e-9d53-a22adf7716d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='083845804927']/parent::*</value>
+      <webElementGuid>1cda9667-978f-41ec-acf9-a30537fc40ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>dc40b3e8-4e9b-4026-bd24-12cbb96dc9a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '083845804927' or . = '083845804927')]</value>
+      <webElementGuid>895f5c8f-15dc-4805-a658-3d84a90b6412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

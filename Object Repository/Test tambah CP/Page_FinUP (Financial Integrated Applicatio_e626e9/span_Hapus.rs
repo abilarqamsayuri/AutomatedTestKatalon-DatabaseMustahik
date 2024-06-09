@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hapus</name>
+   <tag></tag>
+   <elementGuidId>f56bcdc1-e45f-4929-bbca-a04b8b8250f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>jhi-payablegw-direksipkj-list > div.mb-2 > button.p-element.p-button-sm.p-button-danger.p-button.p-component > span.p-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-3']/jhi-payablegw-direksipkj-list/div/button[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1315b478-f3ab-42fb-bfe3-f1630342c1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>5c601898-d99c-4ebf-9b2f-54539832626e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>d43cdd35-7bbb-4dec-a978-871bca9a3d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-3&quot;)/jhi-payablegw-direksipkj-list[1]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-element p-button-sm p-button-danger p-button p-component&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>c27720c6-4d23-46ef-836b-4c448175f339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-3']/jhi-payablegw-direksipkj-list/div/button[2]/span[2]</value>
+      <webElementGuid>371d028d-ae42-41a0-9295-0616ad7c4a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[2]/following::span[2]</value>
+      <webElementGuid>1b922a23-f550-4bfe-bb70-4a1c29364d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firdaus'])[1]/following::span[5]</value>
+      <webElementGuid>36d79c15-8f60-477c-a3eb-620b3b6231a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direksi Pekerjaan'])[1]/preceding::span[1]</value>
+      <webElementGuid>7733b9a8-c927-4cd0-a2e0-8bb097fc12a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelaksana'])[1]/preceding::span[1]</value>
+      <webElementGuid>af449478-b7d4-4d5a-92b1-d14634e7b30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jhi-payablegw-direksipkj-list/div/button[2]/span[2]</value>
+      <webElementGuid>0b3f244b-650b-48af-a87e-3b00328cfbd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>82c51835-b394-4e88-815e-3b2ffdc47bc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Mustahik (2)</name>
+   <tag></tag>
+   <elementGuidId>7d02c8d0-0542-4b62-9b04-9a8c567c35f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success.float-right.mr-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='w0']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc74c1fc-46ba-4954-8ad5-57a5ba7b35dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success float-right mr-1</value>
+      <webElementGuid>4c5cb135-6144-4e97-96c7-63524d94c652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/backend/web/index.php?r=mustahik%2Fcreate</value>
+      <webElementGuid>7fd6151c-9500-4548-a3a5-af374fe17ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Mustahik</value>
+      <webElementGuid>4d50d4ba-007e-4b91-be52-a54d3a8bfddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w0&quot;)/div[@class=&quot;card-header p-2&quot;]/div[1]/a[@class=&quot;btn btn-success float-right mr-1&quot;]</value>
+      <webElementGuid>f2dcbd99-385f-4706-958f-5733b4309af5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div/div/a</value>
+      <webElementGuid>e96298d1-599f-4b0c-a7bd-5e25ac538dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tambah Mustahik')]</value>
+      <webElementGuid>d7446d7b-4c72-48cd-8e4a-ec86ad93adc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Semua'])[1]/following::a[1]</value>
+      <webElementGuid>9c85f3e7-7555-49cd-81fe-fb44847b12e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan Pencarian'])[1]/following::a[2]</value>
+      <webElementGuid>e45c1a48-4846-4c36-8fab-e407096f37b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Excel'])[1]/preceding::a[1]</value>
+      <webElementGuid>f14b6fa3-4013-49d8-96ad-6293bef29625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Mustahik']/parent::*</value>
+      <webElementGuid>26051238-eb75-41c0-a74d-b72d8fd05ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/backend/web/index.php?r=mustahik%2Fcreate')]</value>
+      <webElementGuid>e0557847-bcf3-4fc9-93bc-31588d20feda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>8d261d26-2afe-474d-a347-306316c17aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/backend/web/index.php?r=mustahik%2Fcreate' and (text() = ' Tambah Mustahik' or . = ' Tambah Mustahik')]</value>
+      <webElementGuid>149bc235-70f2-4b94-b013-092b6da76bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

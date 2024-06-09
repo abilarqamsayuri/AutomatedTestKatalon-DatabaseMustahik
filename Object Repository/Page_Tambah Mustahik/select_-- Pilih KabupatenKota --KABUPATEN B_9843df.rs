@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih KabupatenKota --KABUPATEN B_9843df</name>
+   <tag></tag>
+   <elementGuidId>613a38ba-da7b-4eb4-8eac-eed97786b206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mustahik-kota_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='mustahik-kota_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4bd45184-b74a-452b-b1de-6ec7cc068f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mustahik-kota_id</value>
+      <webElementGuid>3392dad3-b979-4235-8d55-b4220852fabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>bd3aeca3-5b6c-4783-bec7-b8a7e272ac18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Mustahik[kota_id]</value>
+      <webElementGuid>2d4a6331-28b3-448a-aa2c-56455668ad79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>
+                                                    $.get( &quot;/backend/web/index.php?r=mustahik%2Flist-kecamatan&quot;, { param: $(this).val() } )
+                                                        .done(function( data ) {
+                                                            $( &quot;#mustahik-kecamatan_id&quot; ).html( data );
+                                                        }
+                                                    );
+                                                    </value>
+      <webElementGuid>c85aa30b-2112-4839-b3b7-465c94c949b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kabupaten/Kota --KABUPATEN BOLAANG MONGONDOWKABUPATEN BOLAANG MONGONDOW SELATANKABUPATEN BOLAANG MONGONDOW TIMURKABUPATEN BOLAANG MONGONDOW UTARAKABUPATEN KEPULAUAN SANGIHEKABUPATEN KEPULAUAN TALAUDKABUPATEN MINAHASAKABUPATEN MINAHASA SELATANKABUPATEN MINAHASA TENGGARAKABUPATEN MINAHASA UTARAKABUPATEN SIAU TAGULANDANG BIAROKOTA BITUNGKOTA KOTAMOBAGUKOTA MANADOKOTA TOMOHON</value>
+      <webElementGuid>117c1b3c-885a-4ee0-b315-652290676151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mustahik-kota_id&quot;)</value>
+      <webElementGuid>5491ac5f-cac8-4f0c-b7d9-bc5c0d1e4ec5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='mustahik-kota_id']</value>
+      <webElementGuid>7a6cd65e-3020-4a16-9c85-212cb9e858cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create-mustahik']/div/div[2]/div/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>ee00c511-08f1-430a-9a6b-e0442ebbb802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota / Kabupaten'])[1]/following::select[1]</value>
+      <webElementGuid>b3c2e8e1-670a-42aa-9761-09d1c4062cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/following::select[2]</value>
+      <webElementGuid>7e8065cc-d484-431b-9537-bf81e82ae308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan'])[1]/preceding::select[1]</value>
+      <webElementGuid>7ada4224-b42f-4d1c-8b10-255612fb5eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelurahan / Desa'])[1]/preceding::select[2]</value>
+      <webElementGuid>6cfdbd5e-9422-4ae9-b7db-a810208a5578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>776fd483-db8a-4c8b-8e22-8bd2968ec510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'mustahik-kota_id' and @name = 'Mustahik[kota_id]' and (text() = '-- Pilih Kabupaten/Kota --KABUPATEN BOLAANG MONGONDOWKABUPATEN BOLAANG MONGONDOW SELATANKABUPATEN BOLAANG MONGONDOW TIMURKABUPATEN BOLAANG MONGONDOW UTARAKABUPATEN KEPULAUAN SANGIHEKABUPATEN KEPULAUAN TALAUDKABUPATEN MINAHASAKABUPATEN MINAHASA SELATANKABUPATEN MINAHASA TENGGARAKABUPATEN MINAHASA UTARAKABUPATEN SIAU TAGULANDANG BIAROKOTA BITUNGKOTA KOTAMOBAGUKOTA MANADOKOTA TOMOHON' or . = '-- Pilih Kabupaten/Kota --KABUPATEN BOLAANG MONGONDOWKABUPATEN BOLAANG MONGONDOW SELATANKABUPATEN BOLAANG MONGONDOW TIMURKABUPATEN BOLAANG MONGONDOW UTARAKABUPATEN KEPULAUAN SANGIHEKABUPATEN KEPULAUAN TALAUDKABUPATEN MINAHASAKABUPATEN MINAHASA SELATANKABUPATEN MINAHASA TENGGARAKABUPATEN MINAHASA UTARAKABUPATEN SIAU TAGULANDANG BIAROKOTA BITUNGKOTA KOTAMOBAGUKOTA MANADOKOTA TOMOHON')]</value>
+      <webElementGuid>bdd884ba-f1f3-46ec-85f1-53e3a8a5085b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
